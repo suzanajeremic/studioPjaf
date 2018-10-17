@@ -1,0 +1,146 @@
+
+.mainHeder{
+   
+    
+    top: 0;
+    position: fixed;
+    color: 	black;
+    z-index: 1;
+    width:100%;
+    margin: 0;
+    padding-left: 50px;
+
+  
+}
+.topHeader{
+   
+   
+    top: 0;
+    position: fixed;
+    color: rgb(178, 202, 218);
+    z-index: 1;
+    width: 100%;
+    margin: 0;
+    padding-left: 50px;
+ 
+
+}
+footer{
+    height: 10%;
+    background: #4a4e69;
+  
+}
+.img-responsive{
+    margin-bottom: 300px;
+    width: 100%;
+  
+}
+.carousel-item{
+   
+    width: 100%;
+    margin: auto;
+    margin-bottom: 150px;
+    margin-top: 10px;
+   
+}
+#onama{
+    text-align: justify;
+    width: 70%;
+    margin: auto;
+     color: #2c365e;
+  
+}
+#kontakt{
+    width: 60%;
+    margin: auto;
+}
+#naslov{
+    margin-left: 40%;
+    color: #2c365e;
+   
+}
+.btn{
+  margin-left: 35%;
+  margin-top: 2%;
+  background:	#2b2d42;
+  color: white;
+   
+}
+
+.topHeader .btn{
+    background: rgb(49, 101, 199);
+    color: white;
+}
+.topHeader .dropdown-menu{
+    background: white;
+    border: 1px solid 	#99c2ff;
+   
+   
+}
+.topHeader h2{
+   display: none;
+}
+p{
+    padding-top: 20px;
+    text-align: center;
+    color: white
+}
+h4{
+    margin-left: 40%;
+    color: #2c365e;
+}
+.dropdown-menu{
+     transition: all .3s;
+    background: 	#cccccc;
+    font-family: inherit;
+    color: white;
+    border: 1px solid white;
+  
+    
+}
+.dropdown-item-text{
+    color: #000033;
+}
+.topHeader .dropdown-item-text{
+    color:  #1a1aff;
+}
+svg {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+}
+.svgCitat{
+    z-index: 1;
+    margin-left: 40%;
+    margin-top: 15%;
+    opacity: 0.5;
+}
+
+h2{
+     margin-top: 1%;
+   
+}
+label{
+    
+    font-family: inherit;
+    
+    
+}
+
+#dugme1{
+    
+    margin-left: 92%;
+    
+}
+ a > img:hover {
+    
+     z-index: 2;
+      filter: drop-shadow(8px 8px 10px gray);
+
+ }
+input[type=text] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid 	#bbbbbb;
+}
