@@ -32,7 +32,7 @@ $(window).on("scroll", function () {
 
 $(function(){
     $('.carousel').carousel({
-      interval: 2000
+      interval: 1000
     });
 });
 
