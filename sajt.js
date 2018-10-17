@@ -22,7 +22,7 @@ $(window).on("scroll", function () {
     let fromTop = $(window).scrollTop();
 
 
-    if (fromTop > 400) {
+    if (fromTop > 500) {
         $(".mainHeder").addClass("topHeader");
     } else(
         $(".mainHeder").removeClass("topHeader")
